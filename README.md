@@ -7,7 +7,7 @@
 - Email：luyunhua1987@gmail.com
 - 微信号：cztv_tomato
 - 期望职位：PHP高级程序员
-- 期望薪资：税前月薪25k~30k
+- 期望薪资：面谈
  - 期望城市：杭州
  - 技术博客：https://segmentfault.com/blog/notnull
  - Github：https://github.com/luyunhua
